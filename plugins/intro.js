@@ -19,16 +19,16 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail <https://github.com/SuhailTechInfo>
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : da_rknetzw
+   * @author :DarkNet
+   * @Instagram  :da_rknetzw
+   * @infoription :A Multi-functional whatsapp user bot.
    * @version 1.2.2 
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * ┌┤Created By Suhail Tech Info.
-   * © 2023 Suhail-Md ✭ ⛥.
+   * ┌┤Created By DitsMan.
+   * © 2024 DitsMan ✭ ⛥.
    * plugin date : 10/6/2023
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -46,19 +46,20 @@ const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
 var surl = 'https://github.com/SuhailTechInfo/Suhail-Md' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+const number = '263713571083'
+var name = ' Darknet'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+var image = 'IMG_20240629_152228~2.jpg'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
-│ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
-│ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+│ Name      : DarkNet
+│ Place       : PLUMTREE
+│ Gender    :  Male
+│ Age          : 21
+│ Phone     : wa.me/263713571083
+│ Instagram   :da_rknetzw
+| Facebook   :DitsMan
+│ Status     : Software Dev
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
